@@ -5,7 +5,7 @@
   "photos": [
     {
       "id":"1",
-      "url":"test_images/image_1.jpg",
+      "url":"images/test_images/image_1.jpg",
       "thumb_url":"test_images/thumb_1.jpg",
       "title":"Experimental Projects at Intel",
       "date":"June 17, 2013",
